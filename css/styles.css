@@ -1,0 +1,188 @@
+body{
+    margin: 50px;
+}
+h1{
+    font-size : 40px;
+    text-align: center;
+    color: #da97b1;
+    font-family:'Abril Fatface', cursive;
+    font-style:inherit;
+    line-height:10%;
+}
+h2{
+    font-size: 25px;
+    color: #fdfafb ;
+    font-family:'Abril Fatface', cursive;
+    background-color: rgb(214, 149, 182);
+    width:1090px;
+    padding-left: 10px;
+}
+h3{
+    font-size: 10px;
+    color:#11303a;
+    font-family:'Montserrat', sans-serif;;
+    text-align: center;
+    line-height: 5%;
+}
+p{
+    color :#335c6d;
+    font-size : 15px;
+    font-family:'Montserrat', sans-serif;
+}
+.helloiam{
+    display:flex;
+    width:1100px;
+    justify-content:column;
+    height:200px;
+}
+.hello{
+    color :#335c6d;
+    font-size : 15px;
+    font-family:'Montserrat', sans-serif;
+    display:flex;
+    width:950px;
+    justify-content:space-between;
+    background-color: rgb(255, 226, 231);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right:10px;
+    padding-left: 10px;
+}
+.cosmetic{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 10px;
+    padding-right:10px;
+    padding-left: 10px;
+}
+body{background-color:#ffffff;}
+ul{
+    color:#295361;
+    font-family:'Montserrat', sans-serif; 
+    font-size : 15px;
+    width : 500px;
+}
+img{
+    display: block;
+}
+.a{
+    color:#5b6163;
+    font-family:'Montserrat', sans-serif; 
+    font-size : 15px;
+    width:500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 330px;
+    padding-left: 20px;
+}
+.links{
+    color:rgb(49, 128, 207);
+    font-size : 2em;
+    font-family:'Abril Fatface', cursive;
+}
+.links:hover{
+    font-size : 50px;
+}
+.abc{
+    color:rgb(252, 243, 249);
+    font-family:'Abril Fatface', cursive;
+    font-size : 20 px;
+
+}
+.footer{
+    width:1100px;
+    color:#323536;
+    font-family:'Montserrat', sans-serif; 
+    font-size : 15px;
+    background: rgb(255, 228, 232);
+}
+.favorite{
+    color:rgb(250, 239, 247);
+    font-family:'Abril Fatface', cursive;
+    line-height: 5px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.top2{
+    margin-top: 5px;
+    line-height: 0px;
+    padding-left: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 10px;
+    color:rgb(48, 44, 45);
+    font-family:'Montserrat', sans-serif; 
+    background-color: rgb(255, 228, 232);
+    padding-right: 672px;
+}
+.top{
+    color:rgb(36, 33, 32);
+    font-family:'Montserrat', sans-serif; 
+    padding-left: 100px;
+    background-color: rgb(255, 228, 232);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 10px;
+}
+.top:hover{
+    color:rgb(240, 235, 226);
+}
+.top2:hover{
+    color:rgb(241, 235, 221);
+}
+.skincaresteps{
+    font-size : 35px;
+    text-align: left;
+    color: #c582af;
+    font-family:'Abril Fatface', cursive;
+    font-style:inherit; 
+    padding-top: 20px;
+}
+ol{
+    color:#282d2e;
+    font-family:'Montserrat', sans-serif; 
+    font-size : 15px;
+    width : 500px;
+}
+.references1{
+    font-family:'Montserrat', sans-serif; 
+}
+.more{
+    color :#335c6d;
+    font-size : 15px;
+    font-family:'Montserrat', sans-serif;
+    display:flex;
+    width:900px;
+    justify-content:column;
+}
+.moretext{
+    color :#335c6d;
+    font-size : 15px;
+    font-family:'Montserrat', sans-serif;
+    display:flex;
+    width: 210px;
+    justify-content:space-between;
+    background-color: rgb(255, 226, 231);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right:10px;
+    padding-left: 10px;
+}
+.onlineshop{
+    font-size : 15px;
+    font-family:'Montserrat', sans-serif;
+    display:flex;
+    width: 600px;
+    height:195px;
+    justify-content:column;
+    background-color: rgb(219, 194, 198);
+}
+.sephora{
+    padding-left: 0px;
+    justify-content: flex-start;
+}
+.sociolla{
+    padding-left: 10px;
+    padding-right:10px;
+    padding-bottom: 10px;
+    justify-content: flex-start;
+}
