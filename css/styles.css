@@ -69,6 +69,7 @@ ul{
     background-color: rgb(255, 226, 231);
     padding-left: 10%;
     padding-right: 10%;
+    display: flex;
 }
 .acnefm{
     color:#295361;
@@ -201,7 +202,7 @@ ol{
 .flip-card {
     background-color: transparent;
     width: 200px;
-    height: 230px;
+    height: 250px;
     perspective: 1000px;
   }
   
@@ -233,6 +234,7 @@ ol{
   .flip-card-back {
     transform: rotateY(180deg);
     font-family:'Montserrat', sans-serif;
+    
   }
   
   .card {
@@ -286,4 +288,9 @@ ol{
     font-size : 15px;
     background: rgb(255, 228, 232);
     width:100%;
+    display: flex;
+  }
+  .picture{
+      display:flex;
+      justify-content: column;
   }
